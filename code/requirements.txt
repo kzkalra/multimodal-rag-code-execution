@@ -12,7 +12,7 @@ jsonschema==4.20.0
 injector>=0.21.0
 ijson>=3.2.3
 requests>=2.31.0
-
+pydantic==2.1.0
 # Code Execution related
 ipykernel==6.26.0
 pre-commit>=2.19.0
